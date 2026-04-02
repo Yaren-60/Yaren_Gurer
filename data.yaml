@@ -1,0 +1,6 @@
+path: /content/kulaklik_egitim
+train: train/images
+val: train/images
+
+nc: 2
+names: ['kulak_ici', 'kulak_ustu']
